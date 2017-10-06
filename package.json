@@ -1,0 +1,20 @@
+{
+  "name": "socket-server",
+  "version": "1.0.0",
+  "description": "\"my socket server for websockets implementation\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "socket",
+    "websocket"
+  ],
+  "author": "Arun Govindappa",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2",
+    "node-rest-client": "^3.1.0",
+    "socket.io": "^2.0.3"
+  }
+}
